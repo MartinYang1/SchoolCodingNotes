@@ -26,3 +26,7 @@ int main() {
     printf("%d", n);
     return 0;
 }
+
+// Variables can also be constants
+// Example
+const unsigned n = 5;

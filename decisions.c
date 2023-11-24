@@ -8,7 +8,6 @@ int main() {
     // Expression
     // An expression is a combination of values, variables, operators, and calls to functions.
     // Expressions need to be evaluated.
-    // If you were to print an expression, the C compiler will evaluate the expression and display the results.
 
     // Evaluating an Expression
     // The evaluation of an expression produces a value.
