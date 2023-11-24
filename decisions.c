@@ -90,5 +90,26 @@ int main() {
         printf("not above 10\n");
     }
 
+    // Switch statements are useful to different cases for checking a certain value
+    // Example
+    int num;
+    printf("Enter a num: ");
+    scanf("%d", &num);
+    if (num == 1)
+        printf("x is 1.");
+    else if (num == 2)
+        printf("x is 2.");
+    else if (num == 3)
+        printf("x is 3.");
+    
+    // Switch statements are better suited for this
+    switch (num) {
+        case 1:
+            printf("x is 1.");
+        case 2:
+            printf("x is 2.");
+        case 3:
+            printf("x is 3.");
+    }
     return 0;
 }
