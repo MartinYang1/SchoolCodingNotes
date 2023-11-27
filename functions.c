@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 // FUNCTIONS
-// Functions provide a way to compartmentalize your code into smaller tasks that can be called from multiple places in your program.
+// Functions provide a way to organize your code into smaller tasks that can be called from multiple places in your program.
 // All code within the function is indented. The first un-indented line is outside the function.
 // A function is a block of code that runs only when called and can be reused.
 // You can pass data (parameters) into a function, and it can return data as a result.

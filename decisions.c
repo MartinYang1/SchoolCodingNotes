@@ -113,3 +113,8 @@ int main() {
     }
     return 0;
 }
+
+
+// || means or and && means and
+// can be used to join together multiple conditions
+// E.g. if (a && b)
